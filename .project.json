@@ -1,0 +1,6 @@
+{
+  "deploy": {
+    "destination": "DY1",
+    "name": "ztestnav"
+  }
+}
